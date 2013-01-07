@@ -1,6 +1,6 @@
-==Curriculum! ==
+#Curriculum! #
 
-===Currently represented...===
+##Currently represented...##
 
-#JavaScript
+*JavaScript
 
